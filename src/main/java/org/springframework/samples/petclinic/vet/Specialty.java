@@ -15,7 +15,7 @@
  */
 package org.springframework.samples.petclinic.vet;
 
-import java.io.Serializable;
+import java.io.Serializable
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
